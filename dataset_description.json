@@ -1,0 +1,14 @@
+{
+    "Name": "bids_dataset",
+    "BIDSVersion": "1.0.0",
+    "Authors": [
+		"Redouane Jamil",
+        "Franck Mauconduit",
+		"Caroline Le Ster",
+        "Philipp Ehses",     
+        "Benedikt A. Poser",
+        "Alexandre Vignaud",
+        "Nicolas Boulant"
+    ],
+    "License": "CC0"
+}
